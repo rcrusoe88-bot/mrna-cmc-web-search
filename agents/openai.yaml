@@ -1,0 +1,4 @@
+interface:
+  display_name: "mRNA CMC Web Search"
+  short_description: "Research-only web sourcing for mRNA CMC, in vivo CAR-T, LNP, and analytics."
+  default_prompt: "Use $mrna-cmc-web-search to gather and package credible web source material on mRNA IVT, mRNA drug substance, targeted LNP, mRNA-LNP formulation, in vivo CAR-T, analytical methods, quality control, or related CMC topics."
